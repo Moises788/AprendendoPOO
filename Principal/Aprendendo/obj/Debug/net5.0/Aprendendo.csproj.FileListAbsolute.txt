@@ -1,0 +1,16 @@
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\bin\Debug\net5.0\Aprendendo.exe
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\bin\Debug\net5.0\Aprendendo.deps.json
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\bin\Debug\net5.0\Aprendendo.runtimeconfig.json
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\bin\Debug\net5.0\Aprendendo.runtimeconfig.dev.json
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\bin\Debug\net5.0\Aprendendo.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\bin\Debug\net5.0\ref\Aprendendo.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\bin\Debug\net5.0\Aprendendo.pdb
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\obj\Debug\net5.0\Aprendendo.csprojAssemblyReference.cache
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\obj\Debug\net5.0\Aprendendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\obj\Debug\net5.0\Aprendendo.AssemblyInfoInputs.cache
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\obj\Debug\net5.0\Aprendendo.AssemblyInfo.cs
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\obj\Debug\net5.0\Aprendendo.csproj.CoreCompileInputs.cache
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\obj\Debug\net5.0\Aprendendo.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\obj\Debug\net5.0\ref\Aprendendo.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\obj\Debug\net5.0\Aprendendo.pdb
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Principal\Aprendendo\obj\Debug\net5.0\Aprendendo.genruntimeconfig.cache
