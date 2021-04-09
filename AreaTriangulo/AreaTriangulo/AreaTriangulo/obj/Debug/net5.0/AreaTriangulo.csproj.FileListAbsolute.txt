@@ -1,0 +1,16 @@
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.exe
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.deps.json
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.runtimeconfig.json
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.runtimeconfig.dev.json
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\net5.0\ref\AreaTriangulo.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.pdb
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.csprojAssemblyReference.cache
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.AssemblyInfo.cs
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\net5.0\ref\AreaTriangulo.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.pdb
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.genruntimeconfig.cache
