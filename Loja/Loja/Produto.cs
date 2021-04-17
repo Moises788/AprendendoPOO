@@ -4,28 +4,41 @@ namespace Loja
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
-
-        public Produto(string nome, double preco, int quantidade)
-        {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
-        }
-
-        public Produto(string nome, double preco)
-        {
-            Nome = nome;
-            Preco = preco;
-        }
-
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
+       
+        /*===========================================================================*/
         public Produto()
         {
-            
+            Quantidade = 0;
         }
 
+        public Produto(string nome, double preco) : this() 
+        {
+            _nome = nome;
+            Preco = preco;
+        }
+
+        public Produto(string nome, double preco, int quantidade) : this( nome, preco) 
+        {
+            Quantidade = quantidade;
+        }
+        
+        /*===========================================================================*/
+        public string Nome 
+        {
+            get { return _nome; }
+            set 
+            {
+                if (value != null && value.Length > 1) 
+                {
+                    _nome = value;
+                }
+            }
+        }
+
+        /*===========================================================================*/
         public double ValorTotalEmEstoque()
         {
             return Quantidade * Preco;
@@ -43,10 +56,10 @@ namespace Loja
 
         public override string ToString()
         {
-            return Nome + ", $ " 
-                + Preco + ", " 
-                + Quantidade 
-                + " unidades, total: $ " 
+            return _nome + ", $ "
+                + Preco + ", "
+                + Quantidade
+                + " unidades, total: $ "
                 + ValorTotalEmEstoque();
         }
     }
