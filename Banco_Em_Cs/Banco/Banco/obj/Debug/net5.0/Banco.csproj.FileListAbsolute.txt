@@ -1,0 +1,16 @@
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\bin\Debug\net5.0\Banco.exe
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\bin\Debug\net5.0\Banco.deps.json
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.json
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.dev.json
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\bin\Debug\net5.0\Banco.dll
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\bin\Debug\net5.0\ref\Banco.dll
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\bin\Debug\net5.0\Banco.pdb
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\obj\Debug\net5.0\Banco.csprojAssemblyReference.cache
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\obj\Debug\net5.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfoInputs.cache
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfo.cs
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\obj\Debug\net5.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\obj\Debug\net5.0\Banco.dll
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\obj\Debug\net5.0\ref\Banco.dll
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\obj\Debug\net5.0\Banco.pdb
+C:\Users\joule\OneDrive\Área de Trabalho\Banco_Em_Cs\Banco\Banco\obj\Debug\net5.0\Banco.genruntimeconfig.cache
