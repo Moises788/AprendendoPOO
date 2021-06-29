@@ -5,7 +5,6 @@ C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Loja\Loja\bin\Debug\net5
 C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Loja\Loja\bin\Debug\net5.0\Loja.dll
 C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Loja\Loja\bin\Debug\net5.0\ref\Loja.dll
 C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Loja\Loja\bin\Debug\net5.0\Loja.pdb
-C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Loja\Loja\obj\Debug\net5.0\Loja.csprojAssemblyReference.cache
 C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Loja\Loja\obj\Debug\net5.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Loja\Loja\obj\Debug\net5.0\Loja.AssemblyInfoInputs.cache
 C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Loja\Loja\obj\Debug\net5.0\Loja.AssemblyInfo.cs

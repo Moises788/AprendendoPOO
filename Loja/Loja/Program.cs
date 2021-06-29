@@ -15,7 +15,7 @@ namespace Loja
             Console.Write("Preco: ");
             double preco = double.Parse(Console.ReadLine());
 
-            Produto p = new(nome, preco);
+            Produto p = new Produto(nome, preco);
 
             Console.WriteLine("Dados do produto: " + p);
 
