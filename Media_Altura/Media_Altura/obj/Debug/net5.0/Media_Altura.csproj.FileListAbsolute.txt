@@ -1,0 +1,16 @@
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\bin\Debug\net5.0\Media_Altura.exe
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\bin\Debug\net5.0\Media_Altura.deps.json
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\bin\Debug\net5.0\Media_Altura.runtimeconfig.json
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\bin\Debug\net5.0\Media_Altura.runtimeconfig.dev.json
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\bin\Debug\net5.0\Media_Altura.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\bin\Debug\net5.0\ref\Media_Altura.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\bin\Debug\net5.0\Media_Altura.pdb
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\obj\Debug\net5.0\Media_Altura.csproj.AssemblyReference.cache
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\obj\Debug\net5.0\Media_Altura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\obj\Debug\net5.0\Media_Altura.AssemblyInfoInputs.cache
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\obj\Debug\net5.0\Media_Altura.AssemblyInfo.cs
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\obj\Debug\net5.0\Media_Altura.csproj.CoreCompileInputs.cache
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\obj\Debug\net5.0\Media_Altura.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\obj\Debug\net5.0\ref\Media_Altura.dll
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\obj\Debug\net5.0\Media_Altura.pdb
+C:\Users\joule\OneDrive\Área de Trabalho\C#_Aprendendo\Media_Altura\Media_Altura\obj\Debug\net5.0\Media_Altura.genruntimeconfig.cache
